@@ -1,0 +1,1 @@
+git clone - copies a file from git to your local computer 
